@@ -1,8 +1,8 @@
 # AndroidChallenge - AGODA
-[#####1) Fix crashes in News List page](https://github.com/AabidMulani/android_AndroidChallenge_AGODA#1-fix-crashes-in-news-list-page-1)
-[#####2) Fix crashes in News Detail page](https://github.com/AabidMulani/android_AndroidChallenge_AGODA#2-fix-crashes-in-news-detail-page-1)
-[#####3) Basic unit test](https://github.com/AabidMulani/android_AndroidChallenge_AGODA#3basic-unit-test)
-[#####4) Improvements](https://github.com/AabidMulani/android_AndroidChallenge_AGODA#4improvements)
+#####[1) Fix crashes in News List page](https://github.com/AabidMulani/android_AndroidChallenge_AGODA#1-fix-crashes-in-news-list-page-1)
+#####[2) Fix crashes in News Detail page](https://github.com/AabidMulani/android_AndroidChallenge_AGODA#2-fix-crashes-in-news-detail-page)
+#####[3) Basic unit test](https://github.com/AabidMulani/android_AndroidChallenge_AGODA#3basic-unit-test)
+#####[4) Improvements](https://github.com/AabidMulani/android_AndroidChallenge_AGODA#4improvements)
 
 -------
 
