@@ -170,8 +170,9 @@ public class MainActivityTest extends InstrumentationTestCase {
 1) The main logic is written in MainActivity, which is not a very clean way to construct an app. Can you help to improve it?
 Yes, please find attached a fresh new project for a cleaner and maintable source code.
 
-Download Link: 
-Github Link:
+Download Link: [SOURCE CODE ZIP](https://drive.google.com/file/d/0BxJ0KCoLDAvnVW1DV2JGblZEeVk/view?usp=sharing)
+Github Link: [REPOSITORY](https://github.com/AabidMulani/android-ChallengeAnswer-Agoda)
+APK Link: [DOWNLOAD APK](https://drive.google.com/file/d/0BxJ0KCoLDAvnUEJIM1kyMlZMWmc/view?usp=sharing)
 
 - Use of Fragments
 - Project Structure
@@ -180,7 +181,7 @@ Github Link:
 
 
 Details:
-
+FOR DETAILS PLEASE READ THE README FOR [THIS REPOSITORY](https://github.com/AabidMulani/android-ChallengeAnswer-Agoda)
 
 
 
@@ -188,4 +189,4 @@ Details:
 
 - Using Gson Library
 - Using JsonDeserializer
-- Please refer to the ** for exact implementation
+- Please refer to the [THIS FILE](https://github.com/AabidMulani/android-ChallengeAnswer-Agoda/blob/master/app/src/main/java/news/agoda/com/technewssample/utils/NullStringToEmptyAdapterFactory.java) for exact implementation
