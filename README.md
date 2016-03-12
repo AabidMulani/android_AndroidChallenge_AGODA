@@ -171,7 +171,7 @@ public class MainActivityTest extends InstrumentationTestCase {
 Yes, please find attached a fresh new project for a cleaner and maintable source code.
 
 Download Link: [SOURCE CODE ZIP](https://drive.google.com/file/d/0BxJ0KCoLDAvnVW1DV2JGblZEeVk/view?usp=sharing)
-Github Link: [REPOSITORY](https://github.com/AabidMulani/android-ChallengeAnswer-Agoda)
+
 APK Link: [DOWNLOAD APK](https://drive.google.com/file/d/0BxJ0KCoLDAvnUEJIM1kyMlZMWmc/view?usp=sharing)
 
 - Use of Fragments
@@ -181,6 +181,7 @@ APK Link: [DOWNLOAD APK](https://drive.google.com/file/d/0BxJ0KCoLDAvnUEJIM1kyMl
 
 
 Details:
+
 FOR DETAILS PLEASE READ THE README FOR [THIS REPOSITORY](https://github.com/AabidMulani/android-ChallengeAnswer-Agoda)
 
 
